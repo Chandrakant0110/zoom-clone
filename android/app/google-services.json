@@ -1,0 +1,47 @@
+ {
+  "project_info": {
+    "project_number": "106641146112",
+    "project_id": "zoom-clone-f316b",
+    "storage_bucket": "zoom-clone-f316b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106641146112:android:6ec9867fd341346dd8b3e5",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106641146112-7q750c9v3agpphgetm8lfu18qulrv6ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_ui",
+            "certificate_hash": "e5e33b23c8d231a603aa5d02703b8a7c158fdb31"
+          }
+        },
+        {
+          "client_id": "106641146112-qfqi825ltlv2eea5affshgu4hmbnq5h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDGrCtulZC4SCwqWSA4F4ZQevkMYBW0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106641146112-qfqi825ltlv2eea5affshgu4hmbnq5h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
